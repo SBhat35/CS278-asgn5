@@ -1,7 +1,7 @@
 # CS278 Text Messaging Application
 
-  My project stems from a personal problem that I have continued to face during my time at Vanderbilt. For the majority of time at Vanderbilt, students eat their meals on campus and are restricted to the hours imposed by the different eateries. As a freshman, this was not a huge problem as most meals were eaten in the Commons Center where the hours were standardized and the center was open 7 nights a week. Yet as I moved to main campus, most of my meals were based upon which restaurants I was closest to. While I prioritized convenience over desired menu, I realized that often the places I wanted to eat were not open during the times I wanted to eat. This required me going into the Campus Dining app, looking through all the restaurants, figuring out which were still open, and then going there based on menu.
-  My proposal involves creating a text-based application that solves the problem of students not knowing either the meal periods or the hours for on campus eateries. Students shall be able to specify the eatery of their choice to learn more about the hours for the day, or find out about hours for the week. This should have a similar interface and feel of the application crated in class with some added features. Example input could be “Grins hours today” with an output of “The hours for Grins today (October 1, 2018) are 7:30AM - 9:00PM.” Further students can check the meal periods at any time to get a breakdown of the different times. My final feature that might be a bit more difficult to implement would be a menu with the items being served on a particular day. This would involve pulling some data from the server or online Vanderbilt Dining webpage, but should be feasible. 
+  My project stems from a personal problem that I have continued to face during my time at Vanderbilt. For the majority of time at Vanderbilt, students eat their meals on campus and are restricted to the hours imposed by the different eateries. As a freshman, this was not a huge problem as most meals were eaten in the Commons Center where the hours were standardized and the center was open 7 nights a week. Yet as I moved to main campus, most of my meals were based upon which restaurants I was closest to. While I prioritized convenience over desired menu, I realized that often the places I wanted to eat were not open during the times I wanted to eat. This required me going into the Campus Dining app, looking through all the restaurants, figuring out which were still open, and then going there based on menu. <br />
+  My proposal involves creating a text-based application that solves the problem of students not knowing either the meal periods or the hours for on campus eateries. Students shall be able to specify the eatery of their choice to learn more about the hours for the day, or find out about hours for the week. This should have a similar interface and feel of the application crated in class with some added features. Example input could be “Grins hours today” with an output of “The hours for Grins today (October 1, 2018) are 7:30AM - 9:00PM.” Further students can check the meal periods at any time to get a breakdown of the different times. My final feature that might be a bit more difficult to implement would be a menu with the items being served on a particular day. This would involve pulling some data from the server or online Vanderbilt Dining webpage, but should be feasible. <br />
 	As for my interviews, I targeted one sophomore, one junior, and one senior for a diversity of outlooks and thoughts. Based on the responses, it seems as though the campus menus are the most important for students followed by restaurant hours and then meal periods. I think having a simple interface and way of interacting and understanding the campus dining meals and schedule is an important part of one’s meal choice. By allowing for simple commands that can pull specific pieces of data from specified restaurants, the application is limited in scope yet covers some critical problems faced by current students.
 
 
@@ -21,10 +21,54 @@
 # Answers:
 
 ## Question 1: 
-...answers from everyone to question 1....
-...
-...
+Roth: I eat on campus usually 3 times a day, except for Thursday- Sunday where I would say I eat 2 times a day on campus
+Movva: I eat on campus monday through thursday, usually for lunch and dinner. 
+Jana: Twice a day during the week, less on weekends
 
 ## Question 2:
-...answers from everyone to question 2....
-....
+Roth: Normally Grins, Rand and commons
+Movva: I eat lunch usually at grins or rand, specifically bowls or at chef james. 
+Jana: Rand for almost every meal, with a bit of EBI, Kissam, Aryeh’s and pub mixed in
+
+## Question 3:
+Roth: Grins and Rand are really close, and I eat at commons when I have HOD classes there on Tuesday Thursday
+Movva: I like grins and the bowl line because they have a wide variety of foods that are mostly health and filling. Rand has a lot of options so I have more flexibility when it comes to sides. Also, a lot of my friends do homework in rand and grins, so I also eat at these eateries for social reasons.
+Jana: Type of food they offer and proximity to where I live
+
+## Question 4:
+Roth: Don’t know the meal periods super well at all, but don’t think they would change that much
+Movva: I don't really know the meal periods off the top of my head. I know the dinner meal period is from 4-8, but I always get confused when the breakfast meal time ends. Especially on the weekends when the breakfast options stay open later, I always forget when they end. 
+Jana: I know the general time but the specific cut off. I don’t believe my eating habits would change unless the school got rid of the unnecessary meal periods
+
+## Question 5:
+Roth: How far it is, what they have to eat
+Movva: How many meals I have left and when and where I want to use them throughout the week. So essentially, scheduling is my biggest obstacle. 
+Jana: Time/proximity is the biggest factor. I am very busy so I cannot spend too much time not doing work
+
+## Question 6:
+Roth: Campus dining hours do usually affect my eating schedule, but restaurants i go to are almost always open
+Movva: Not extremely important. Although certain places like Food For Thought cafe closes at varying times. 
+Jana: Restaurants closing at 8 do restrict my eating options at times, but for the most part I have enough options that it doesn’t really
+
+## Question 7:
+Roth: Almost always
+Movva: When it comes to rand or kissam, I always check the menus before going because they are different every day. But grins and bowls are always the same, so i don’t have to check. 
+Jana: No
+
+## Question 8:
+Roth: Like to try new things but not necessary i try new meals
+Movva: Not important. 
+Jana: Not very. I generally know what I like, however I do like variety so new options would be welcome.
+
+## Question 9:
+For closing times no, but maybe opening times yes
+Movva: Yes
+Jana: Not especially. Would only be relevant at a minute portion of times and an annoyance all other times
+
+## Question 10:
+Roth: I would say maybe for campus dining knowing how long the lines are would be good, and knowing when things open, but besides that no problems i can think of.
+Movva: No
+Jana: I am very opposed to the meal period system. You should be able to use your paid for meals whenever you please.
+
+
+
