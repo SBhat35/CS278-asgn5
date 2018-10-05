@@ -10,12 +10,13 @@
   2. Can you give a rough breakdown of the distribution of on campus eateries where you eat?
   3. What are the primary reasons you choose to eat at these eateries?
   4. How well do you know the meal periods off the top of your head? Would your eating habits change if they were more accessible?
-  5. What is the biggest obstacle you face when choosing where to eat?
+  5. Would you utilize a service that allows you to hear from others who have eaten at a certain location?
   6. How important are restaurant hours in choosing where you eat/do they restrict your eating schedule?
   7. Do you check the menus before choosing a restaurant?
   8. How important is it for you to try new meals on campus?
   9. Would it be helpful to get reminders of closing times for certain on campus eateries?
-  10. Any other comments or suggestions regarding the accessibility of restaurant menus and hours? Are there other problems you face    regarding meals?
+  10. Would a text messaging application to solve some of these problems be of use?
+
 
 
 # Answers:
@@ -41,9 +42,9 @@ Movva: I don't really know the meal periods off the top of my head. I know the d
 Jana: I know the general time but the specific cut off. I don’t believe my eating habits would change unless the school got rid of the unnecessary meal periods
 
 ## Question 5:
-Roth: How far it is, what they have to eat
-Movva: How many meals I have left and when and where I want to use them throughout the week. So essentially, scheduling is my biggest obstacle. 
-Jana: Time/proximity is the biggest factor. I am very busy so I cannot spend too much time not doing work
+Roth: For certain restaurants yes
+Movva: Yes, I usually base my restaurant preferences on the menus so having an idea of whether others like it would be helpful
+Jana: Probably for a few locations on certain days
 
 ## Question 6:
 Roth: Campus dining hours do usually affect my eating schedule, but restaurants i go to are almost always open
@@ -66,9 +67,10 @@ Movva: Yes
 Jana: Not especially. Would only be relevant at a minute portion of times and an annoyance all other times
 
 ## Question 10:
-Roth: I would say maybe for campus dining knowing how long the lines are would be good, and knowing when things open, but besides that no problems i can think of.
-Movva: No
-Jana: I am very opposed to the meal period system. You should be able to use your paid for meals whenever you please.
+Roth: I am on my phone quite a bit, I do think this would be of use
+Movva: Yes
+Jana: Yes, app might be easier
+
 
 
 
