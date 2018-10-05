@@ -22,54 +22,54 @@
 # Answers:
 
 ## Question 1: 
-Roth: I eat on campus usually 3 times a day, except for Thursday- Sunday where I would say I eat 2 times a day on campus
-Movva: I eat on campus monday through thursday, usually for lunch and dinner. 
-Jana: Twice a day during the week, less on weekends
+Roth: I eat on campus usually 3 times a day, except for Thursday- Sunday where I would say I eat 2 times a day on campus <br/>
+Movva: I eat on campus monday through thursday, usually for lunch and dinner. <br/>
+Jana: Twice a day during the week, less on weekends <br/>
 
 ## Question 2:
-Roth: Normally Grins, Rand and commons
-Movva: I eat lunch usually at grins or rand, specifically bowls or at chef james. 
-Jana: Rand for almost every meal, with a bit of EBI, Kissam, Aryeh’s and pub mixed in
+Roth: Normally Grins, Rand and commons <br/>
+Movva: I eat lunch usually at grins or rand, specifically bowls or at chef james. <br/>
+Jana: Rand for almost every meal, with a bit of EBI, Kissam, Aryeh’s and pub mixed in <br/>
 
 ## Question 3:
-Roth: Grins and Rand are really close, and I eat at commons when I have HOD classes there on Tuesday Thursday
-Movva: I like grins and the bowl line because they have a wide variety of foods that are mostly health and filling. Rand has a lot of options so I have more flexibility when it comes to sides. Also, a lot of my friends do homework in rand and grins, so I also eat at these eateries for social reasons.
-Jana: Type of food they offer and proximity to where I live
+Roth: Grins and Rand are really close, and I eat at commons when I have HOD classes there on Tuesday Thursday <br/>
+Movva: I like grins and the bowl line because they have a wide variety of foods that are mostly health and filling. Rand has a lot of options so I have more flexibility when it comes to sides. Also, a lot of my friends do homework in rand and grins, so I also eat at these eateries for social reasons. <br/>
+Jana: Type of food they offer and proximity to where I live <br/>
 
 ## Question 4:
-Roth: Don’t know the meal periods super well at all, but don’t think they would change that much
-Movva: I don't really know the meal periods off the top of my head. I know the dinner meal period is from 4-8, but I always get confused when the breakfast meal time ends. Especially on the weekends when the breakfast options stay open later, I always forget when they end. 
-Jana: I know the general time but the specific cut off. I don’t believe my eating habits would change unless the school got rid of the unnecessary meal periods
+Roth: Don’t know the meal periods super well at all, but don’t think they would change that much <br/>
+Movva: I don't really know the meal periods off the top of my head. I know the dinner meal period is from 4-8, but I always get confused when the breakfast meal time ends. Especially on the weekends when the breakfast options stay open later, I always forget when they end. <br/>
+Jana: I know the general time but the specific cut off. I don’t believe my eating habits would change unless the school got rid of the unnecessary meal periods <br/>
 
 ## Question 5:
-Roth: For certain restaurants yes
-Movva: Yes, I usually base my restaurant preferences on the menus so having an idea of whether others like it would be helpful
-Jana: Probably for a few locations on certain days
+Roth: For certain restaurants yes <br/>
+Movva: Yes, I usually base my restaurant preferences on the menus so having an idea of whether others like it would be helpful <br/>
+Jana: Probably for a few locations on certain days <br/>
 
 ## Question 6:
-Roth: Campus dining hours do usually affect my eating schedule, but restaurants i go to are almost always open
-Movva: Not extremely important. Although certain places like Food For Thought cafe closes at varying times. 
-Jana: Restaurants closing at 8 do restrict my eating options at times, but for the most part I have enough options that it doesn’t really
+Roth: Campus dining hours do usually affect my eating schedule, but restaurants i go to are almost always open <br/>
+Movva: Not extremely important. Although certain places like Food For Thought cafe closes at varying times. <br/>
+Jana: Restaurants closing at 8 do restrict my eating options at times, but for the most part I have enough options that it doesn’t really <br/>
 
 ## Question 7:
-Roth: Almost always
-Movva: When it comes to rand or kissam, I always check the menus before going because they are different every day. But grins and bowls are always the same, so i don’t have to check. 
-Jana: No
+Roth: Almost always <br/>
+Movva: When it comes to rand or kissam, I always check the menus before going because they are different every day. But grins and bowls  are always the same, so i don’t have to check. <br/>
+Jana: No <br/>
 
 ## Question 8:
-Roth: Like to try new things but not necessary i try new meals
-Movva: Not important. 
-Jana: Not very. I generally know what I like, however I do like variety so new options would be welcome.
+Roth: Like to try new things but not necessary i try new meals <br/>
+Movva: Not important. <br/>
+Jana: Not very. I generally know what I like, however I do like variety so new options would be welcome. <br/>
 
 ## Question 9:
-For closing times no, but maybe opening times yes
-Movva: Yes
-Jana: Not especially. Would only be relevant at a minute portion of times and an annoyance all other times
+For closing times no, but maybe opening times yes <br/>
+Movva: Yes <br/>
+Jana: Not especially. Would only be relevant at a minute portion of times and an annoyance all other times <br/>
 
 ## Question 10:
-Roth: I am on my phone quite a bit, I do think this would be of use
-Movva: Yes
-Jana: Yes, app might be easier
+Roth: I am on my phone quite a bit, I do think this would be of use <br/>
+Movva: Yes <br/>
+Jana: Yes, app might be easier <br/>
 
 
 
