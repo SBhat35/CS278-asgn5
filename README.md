@@ -89,6 +89,16 @@ There are a number of limitations to this application that are not fully optimiz
 As for development, if a student requests the hours for a certain restaurant, it will pull all of the information from the 'hours' data structure mentioned earlier (that stores the restaurant hours). To add oneself as an expert, the application will follow a very similar mapping structure to the application built earlier, which will store the phone number and any external data wanted within the restaurant for a certain expert. Each command is mapped to a query that retrieves data for its associateed handler function. The query will look up the list of keys in the stored state. To clear the map after a certain day, I will implement a function similar to action-remove that will recursively run through the experts map and remove the people and their information. This will likely require a timestamp and checking method that will check the time and reset the maps state if passed a certain time (ex 10:00pm). 
 
 
+# Usage
+My application is a text based app that takes commands from users and translates them into responses based on a routing protocol that maps to different functions and actions. The number that is associated with the application is: +16153984377. There are a number of key commands that can be inputted and generate a valid response. 
+
+## options 
+options gives the users a list of all of the acceptable commands, including menu, hours <restaurant> <day>, describe <restaurant>, restaurants, homepage, diner <restaurant>, ask <restaurant>, answer <restaurant>
+	
+## ask hours <restaurant> day
+
+
+
 
 
 
