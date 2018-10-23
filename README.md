@@ -95,25 +95,25 @@ My application is a text based app that takes commands from users and translates
 ## options 
 options gives the users a list of all of the acceptable commands, including menu, hours <restaurant> <day>, describe <restaurant>, restaurants, homepage, diner <restaurant>, ask <restaurant>, answer <restaurant>
 	
-## ask hours <restaurant> day
+## ask hours *restaurant* day
 Provides the hours of operations for the specified restaurant
 	
 ## menu
 Provides the URL of the Vanderbilt Campus Dining menus
 
-## diner <restaurant>
+## diner *restaurant*
 Registers the user who sent text as a expert/diner for a certain restaurant. This allows them to answer questions on the specified restaurant
 	
-## ask <restaurant> question
+## ask *restaurant* question
 This checks the map if there is a diner(s) who has eaten at the specified restaurant. If there are no registered diners for a restaurant it will alert the user of no diners
 	
-## answer <restaurant> question 
+## answer *restaurant* question 
 Once registered as a diner from a certain restaurant, they are able to answer the question to a certain 
 	
 ## restaurants
 Provides list of all acceptable restaurants
 
-## describe <restaurant> 
+## describe *restaurant* 
 Gives a brief description of the specified restaurant
 	
 
